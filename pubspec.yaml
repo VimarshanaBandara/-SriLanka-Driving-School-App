@@ -1,0 +1,236 @@
+name: riyaduru_pasala
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.2
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+     - images/an1.png
+     - images/an2.png
+     - images/an3.png
+     - images/an4.png
+     - images/an5.png
+     - images/an6.png
+     - images/an7.png
+     - images/an8.png
+     - images/an9.png
+     - images/an10.png
+     - images/an11.png
+     - images/an12.png
+     - images/an13.png
+     - images/an14.png
+     - images/an15.png
+     - images/an16.png
+     - images/an17.png
+     - images/an18.png
+     - images/an19.png
+     - images/an20.png
+     - images/an21.png
+     - images/an22.png
+     - images/an23.png
+     - images/an24.png
+     - images/an25.png
+     - images/an26.png
+     - images/an27.png
+     - images/an28.png
+     - images/an29.png
+     - images/an30.png
+     - images/an31.png
+     - images/an32.png
+     - images/an33.png
+     - images/an34.png
+     - images/an35.png
+     - images/an36.png
+     - images/an37.png
+     - images/an38.png
+     - images/an39.png
+     - images/an40.png
+     - images/an41.png
+     - images/an42.png
+     - images/pl1.png
+     - images/pl2.png
+     - images/pl3.png
+     - images/pl4.png
+     - images/pl5.png
+     - images/pl6.png
+     - images/pl7.png
+     - images/pl8.png
+     - images/pl9.png
+     - images/pl10.png
+     - images/pl11.png
+     - images/pl12.png
+     - images/pl13.png
+     - images/pl14.png
+     - images/pl15.png
+     - images/pl16.png
+     - images/pl17.png
+     - images/si1.png
+     - images/si2.png
+     - images/si3.png
+     - images/si4.png
+     - images/si5.png
+     - images/si6.png
+     - images/vi1.png
+     - images/vi2.png
+     - images/vi3.png
+     - images/vi4.png
+     - images/vi5.png
+     - images/vi6.png
+     - images/vi7.png
+     - images/vi8.png
+     - images/vi9.png
+     - images/pr1.png
+     - images/pr2.png
+     - images/pr3.png
+     - images/pr4.png
+     - images/pr5.png
+     - images/pr6.png
+     - images/ak1.png
+     - images/ak2.png
+     - images/ak3.png
+     - images/ak4.png
+     - images/ak5.png
+     - images/ak6.png
+     - images/ak7.png
+     - images/ak8.png
+     - images/ak9.png
+     - images/ak10.png
+     - images/ak11.png
+     - images/ak12.png
+     - images/ak13.png
+     - images/ak14.png
+     - images/ak15.png
+     - images/p1.png
+     - images/p2.png
+     - images/p3.png
+     - images/p4.png
+     - images/p5.png
+     - images/tr1.png
+     - images/tr2.png
+     - images/tr3.png
+     - images/tr4.png
+     - images/tr5.png
+     - images/tr6.png
+     - images/sp.jpg
+     - images/logo.png
+     - images/r1.png
+     - images/r2.png
+     - images/r3.png
+     - images/r4.png
+     - images/r5.png
+     - images/r6.png
+     - images/r7.png
+     - images/r8.png
+     - images/r9.png
+     - images/r10.png
+     - images/r11.png
+     - images/r12.png
+     - images/r13.png
+     - images/r14.png
+     - images/r15.png
+     - images/r16.png
+     - images/r17.png
+     - images/r18.png
+     - images/r19.png
+     - images/r20.png
+     - images/r21.png
+     - images/r22.png
+     - images/r23.png
+     - images/r24.png
+     - images/r25.png
+     - images/r26.png
+     - images/r27.png
+     - images/w1.png
+     - images/w2.png
+     - images/w3.png
+     - images/w4.png
+     - images/w5.png
+     - images/w6.png
+     - images/w7.png
+     - images/w8.png
+     - images/ni1.png
+     - images/ni2.png
+     - images/ni3.png
+     - images/ni4.png
+     - images/ni5.png
+     - images/ni6.png
+     - images/ni7.png
+     - images/ni9.png
+     - images/ds1.png
+     - images/ds2.png
+     - images/ds3.png
+     - images/ds4.png
+     - images/ds5.png
+     - images/ds6.png
+     - images/pa1.png
+     - images/pa2.png
+     - images/pa3.png
+     - images/pa4.png
+
+
+
+         # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

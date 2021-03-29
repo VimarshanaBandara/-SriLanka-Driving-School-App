@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96052545557",
+    "project_id": "riyaduruperahuruwa",
+    "storage_bucket": "riyaduruperahuruwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96052545557:android:0e8ced3ea780519bc2661c",
+        "android_client_info": {
+          "package_name": "com.riyadurupasalavmm.riyaduru_pasala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96052545557-cu43prb3jlm3scth8fkltbs46cdl03pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKuImqY68nrbSfUmCQoahziHjLlveuWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96052545557-cu43prb3jlm3scth8fkltbs46cdl03pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
