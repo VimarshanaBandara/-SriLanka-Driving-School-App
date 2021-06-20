@@ -10,6 +10,9 @@
 | :-------------: | 
 |     PlayStore     |   
 
+| ![](demo/Grapic%20Screen.jpg) |
+| :-------------: | 
+|    https://play.google.com/store/apps/details?id=com.riyadurupasalavmm.riyaduru_pasala&hl=en&gl=US     |   
 
 
 
